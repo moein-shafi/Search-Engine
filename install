@@ -1,0 +1,5 @@
+#!/bin/bash
+
+g++ -std=c++11 Balancer.cpp -o Balancer
+g++ -std=c++11 Worker.cpp -o Worker
+g++ -std=c++11 Presenter.cpp -o Presenter
